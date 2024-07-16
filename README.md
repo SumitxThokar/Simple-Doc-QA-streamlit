@@ -6,3 +6,5 @@ This web-app allows you to interact with a document by asking questions and rece
 - Create embeddings and a vector database
 - Interact with the document through a chatbot interface
 - Collect user information for follow-up (if user's input is "call me") 
+
+Also, we can use function calling to collect user information (I have used if statement instead)
