@@ -1,6 +1,6 @@
 # Document Q&A Chatbot with LangChain
 This web-app allows you to interact with a document by asking questions and receiving concise answers. The app uses LangChain for document processing and a conversational retrieval chain to provide responses.
-## Features
+## Project Flow
 - Upload a PDF document
 - Split the document into chunks
 - Create embeddings and a vector database
